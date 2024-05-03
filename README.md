@@ -43,7 +43,4 @@ winner.
 - When the turn limit is reached, the game ends and the player with more valid moveable space will be the
 winner.
 
-Grading
-- You will be graded based on your AI’s strength. Your AI algorithm must be an algorithm other than
-random. You must provide a heuristic function which will be applicable to any combination of limit and
-number of piece values.
+
